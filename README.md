@@ -1,13 +1,4 @@
 # UI
-Website interface for an import and export warehouse
-
-
-![Wallet UI](https://github.com/osamaaAlmahameed/UI-For-An-Electronic-Wallet/blob/main/w2.jpg?raw=true)
-
-![Wallet UI](https://github.com/osamaaAlmahameed/UI-For-An-Electronic-Wallet/blob/main/w3.jpg?raw=true)
-
-
-
 
 
 User Inter Face Application 
