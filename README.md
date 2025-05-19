@@ -20,3 +20,7 @@ Ice Cream App
 ![UI Design](https://github.com/osamaaAlmahameed/UI-Design/raw/main/p21.jpg)
 
 ![UI Design](https://github.com/osamaaAlmahameed/UI-Design/raw/main/p24.jpg)
+
+![UI Design](https://github.com/osamaaAlmahameed/UI-Design/raw/main/p23.jpg)
+
+![UI Design](https://github.com/osamaaAlmahameed/UI-Design/raw/main/p25.jpg)
